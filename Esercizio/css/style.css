@@ -1,0 +1,106 @@
+body {
+  max-width: 100%;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.65;
+  margin: 0;
+  font-style: normal;
+  line-height: 30px;
+}
+header div {
+  background-image: url(./images/banner.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 12px;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+  font-style: bold;
+  color: #28a3ce;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 2rem;
+  font-style: bold;
+  color: #28a3ce;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.logo {
+  text-align: center;
+  background-color: black;
+}
+
+header {
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-align: center;
+  width: 100%;
+  height: 450px;
+  padding-bottom: 12px;
+}
+button {
+  margin-top: 15px;
+  background-color: #f04c2f;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  border: 0px;
+  padding-top: 15px;
+  padding-bottom: 12px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.sezioneone {
+  text-align: center;
+  padding: 40px;
+}
+.imgtondo {
+  width: 80%;
+  height: auto;
+  overflow: hidden;
+  border-radius: 50%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+article {
+  background-color: #e22d0e;
+  text-align: center;
+  padding: 20px;
+  font-family: "Monserrat", sans-serif;
+}
+article h3 {
+  font-size: 35px;
+  padding-bottom: 1rem;
+  color: white;
+}
+article p {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: white;
+}
+aside h4 p {
+  text-align: center;
+  border-width: 100% solid;
+}
+aside img {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+  padding-right: 10px;
+  width: 75%;
+}
+.bordi {
+  border: 1px solid black;
+}
