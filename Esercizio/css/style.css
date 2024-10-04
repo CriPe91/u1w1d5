@@ -49,6 +49,12 @@ header {
   height: 450px;
   padding-bottom: 12px;
 }
+
+header p {
+  padding: 2px;
+  margin-left: 9px;
+}
+
 button {
   margin-top: 15px;
   background-color: #f04c2f;
@@ -115,6 +121,7 @@ footer h4 {
   font-weight: 650;
   line-height: 3;
   text-align: center;
+  color: white;
 }
 footer {
   font-family: "Open Sans", sans-serif;
@@ -126,4 +133,8 @@ footer {
 }
 hr {
   margin-inline: 6rem;
+}
+
+.white {
+  color: white;
 }
