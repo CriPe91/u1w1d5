@@ -78,29 +78,49 @@ article {
   background-color: #e22d0e;
   text-align: center;
   padding: 20px;
-  font-family: "Monserrat", sans-serif;
+  color: white;
 }
 article h3 {
-  font-size: 35px;
   padding-bottom: 1rem;
   color: white;
+  font-family: "Montserrant," sans-serif;
+  font-size: 1.5rem;
+  font-weight: 650;
+  line-height: 3;
 }
 article p {
   padding-top: 1rem;
   padding-bottom: 1rem;
   color: white;
+  font-style: italic;
 }
-aside h4 p {
+section div {
+  border: solid #dee1e3;
+  margin: 40px;
   text-align: center;
-  border-width: 100% solid;
+  padding-bottom: 35px;
 }
-aside img {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 60px;
-  padding-right: 10px;
-  width: 75%;
+.immagine {
+  width: 100%;
+  height: auto;
 }
-.bordi {
-  border: 1px solid black;
+
+footer {
+  background-color: rgb(34, 84, 179);
+  color: white;
+}
+footer h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 650;
+  line-height: 3;
+  text-align: center;
+}
+footer {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.55;
+  text-align: center;
+  margin: 0;
+  color: white;
 }
